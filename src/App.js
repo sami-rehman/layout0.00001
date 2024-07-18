@@ -444,7 +444,7 @@ const App = () => {
               className={`font-inter text-xl font-semibold text-[#233047] block ${openSideBar ? "block" : "sm:hidden "
                 } cursor-pointer`}
             >
-              infyToken
+              riverPrime
             </span>
           </div>
 
